@@ -6,9 +6,6 @@ El objetivo de este desarrollo es vinculara todo tipo de desarrolladores amantes
 
 <strong>Desarrolladores:</strong>
 <table>
-
-
-<table>
   <tr>
     <td>Nombres y Apellidos</td>
     <td>Fernando Andres Fernández</td>
@@ -19,6 +16,6 @@ El objetivo de este desarrollo es vinculara todo tipo de desarrolladores amantes
     <td>28bink</td>
     <td>Exnovus</td>
   </tr>
-</table             
+</table>             
        
                
