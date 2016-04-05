@@ -7,8 +7,8 @@ El objetivo de este desarrollo es vinculara todo tipo de desarrolladores amantes
 <strong>Desarrolladores:</strong>
 <table>
   <tr>
-    <td>Nombres y Apellidos</td>
-    <td>Alias</td>
+    <td><strong>Nombres y Apellidos</strong></td>
+    <td><strong>Alias</strong></td>
   </tr>
   <tr>
     <td>Fernando Andres Fernández</td>
@@ -19,5 +19,6 @@ El objetivo de este desarrollo es vinculara todo tipo de desarrolladores amantes
     <td>Exnovus</td>
   </tr>
 </table>             
-       
+<br>
+
                
