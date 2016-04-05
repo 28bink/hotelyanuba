@@ -8,11 +8,11 @@ El objetivo de este desarrollo es vinculara todo tipo de desarrolladores amantes
 <table>
   <tr>
     <td>Nombres y Apellidos</td>
-    <td>Fernando Andres Fernández</td>
+    <td>Alias</td>
     <td>Oscar David Reyes</td>
   </tr>
   <tr>
-    <td>Alias</td>
+    <td>Fernando Andres Fernández</td>
     <td>28bink</td>
     <td>Exnovus</td>
   </tr>
