@@ -5,7 +5,20 @@ El objetivo de este desarrollo es vinculara todo tipo de desarrolladores amantes
 [Visita nuestra Fundacion] (http://www.rootdevel.co)
 
 <strong>Desarrolladores:</strong>
+<table>
 
-Nombres y Apellidos             Alias
-Fernando Andres Fernández       28bink
-Oscar David Reyes               Exnovus
+
+<table>
+  <tr>
+    <td>Nombres y Apellidos</td>
+    <td>Fernando Andres Fernández</td>
+    <td>Oscar David Reyes</td>
+  </tr>
+  <tr>
+    <td>Alias</td>
+    <td>28bink</td>
+    <td>Exnovus</td>
+  </tr>
+</table             
+       
+               
